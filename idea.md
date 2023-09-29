@@ -1,4 +1,4 @@
-#Descripcin del Software
+#Descripción del Software
 Mi programa es un tipo de calculadora
 
 #Descripcion
