@@ -1,0 +1,37 @@
+# Hola Mundo en Python Documentado
+
+Habilitamos el repositorio PPA"deadsnakes" que contiene la última versión de Python
+
+```python
+sudo add-apt -repository ppa:deadsnakes/ppa
+```
+
+Actualizar los archivos
+
+```java
+sudo apt-get install
+```
+
+Instalar python
+
+```python
+sudo apt install python3.11
+```
+
+Creamos archivo python
+
+```python
+nano helloworld.py
+```
+
+Introducimos código dentro del programa
+
+```python
+print("Hello, World!")
+```
+
+Ejecutamos para comprobar que todo funciona perfectamente
+
+```python
+python3 helloworld.py
+```
