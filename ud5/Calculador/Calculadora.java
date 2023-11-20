@@ -1,10 +1,9 @@
-package ud5;
+package ud5.Calculador;
 
 public class Calculadora {
 
     
     private double resultado = 0;
-
     
     public double getResultado() {
         return resultado;
