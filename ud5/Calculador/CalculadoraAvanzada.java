@@ -18,5 +18,18 @@ public class CalculadoraAvanzada extends Calculadora{
     public void desfacer() {
         setResultado(resultadoAnterior);
     }
+
+    @Override
+    public void sumar(double x) {
+        resultadoAnterior= getResultado();
+        //setResultado(getResultado() + x);
+        super.sumar(x);
+    }
+
+    @Override
+    public void restar(double x) {
+        resultadoAnterior= getResultado();
+        super.restar(x);
+    }
     
 }
