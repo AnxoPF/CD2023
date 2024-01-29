@@ -34,6 +34,8 @@ sudo snap install netbeans --classic
 
 La interpretación de un programa simple
 
+```
+
 ------------------------< com.mycompany:prueba >------------------------
 Building prueba 1.0-SNAPSHOT
   from pom.xml
@@ -54,3 +56,4 @@ BUILD SUCCESS
 Total time:  2.507 s
 Finished at: 2024-01-12T11:37:56+01:00
 ------------------------------------------------------------------------
+```
