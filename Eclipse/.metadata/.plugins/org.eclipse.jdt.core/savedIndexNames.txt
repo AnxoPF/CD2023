@@ -1,0 +1,12 @@
+INDEX VERSION 1.134+/home/vagrant/Desktop/CD2023/Eclipse/.metadata/.plugins/org.eclipse.jdt.core
+2948655502.index
+3128116326.index
+235831649.index
+2741548684.index
+4057121097.index
+1865797976.index
+268258035.index
+2879588646.index
+3208250313.index
+1728292988.index
+273979724.index
