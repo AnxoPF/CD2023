@@ -1,3 +1,0 @@
-INDEX VERSION 1.134+/home/vagrant/Desktop/CD2023/Eclipse/.metadata/.plugins/org.eclipse.jdt.core
-1865797976.index
-3208250313.index
