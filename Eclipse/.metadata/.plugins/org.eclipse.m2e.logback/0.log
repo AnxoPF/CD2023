@@ -501,3 +501,5 @@
 2024-04-05 11:42:54,195 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/vagrant/git/junit5-samples/junit5-jupiter-starter-maven-kotlin/src/test/resources
 2024-04-05 11:42:54,859 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/vagrant/git/junit5-samples/junit5-migration-maven/src/main/resources
 2024-04-05 11:42:54,861 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/vagrant/git/junit5-samples/junit5-migration-maven/src/test/resources
+2024-04-08 08:47:36,158 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-08 08:47:46,364 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
