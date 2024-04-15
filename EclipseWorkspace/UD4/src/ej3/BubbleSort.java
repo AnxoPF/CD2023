@@ -6,7 +6,7 @@ class bubblesort {
 		bubblesort ob = new bubblesort(); 
 		int arr[] = { 64, 34, 25, 12, 22, 11, 90 }; 
 		ob.bubbleSort(arr); 
-		System.out.println("Sorted array");
+		System.out.println("Sorted array: "+arr);
 	} 
 	
 	void bubbleSort(int arr[]) { 
