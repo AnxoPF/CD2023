@@ -1,0 +1,48 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/home/vagrant/Desktop/CD2023/Messismo/mesi/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/vagrant/Desktop/CD2023/Messismo/mesi/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'mesi 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'mesi 1.0-SNAPSHOT API'
+'/home/vagrant/Desktop/CD2023/Messismo/mesi/src/main/java/Estudiante.java'
+/home/vagrant/Desktop/CD2023/Messismo/mesi/src/main/java/Estudiante.java = 1715588359441
+/home/vagrant/Desktop/CD2023/Messismo/mesi/src/main/java = 1715588150757
+/home/vagrant/Desktop/CD2023/Messismo/mesi/target/site/apidocs/search-page.js = 1715588372250
+/home/vagrant/Desktop/CD2023/Messismo/mesi/target/site/apidocs/index-all.html = 1715588372242
+/home/vagrant/Desktop/CD2023/Messismo/mesi/target/site/apidocs/copy.svg = 1715588372250
+/home/vagrant/Desktop/CD2023/Messismo/mesi/target/site/apidocs/index.html = 1715588372246
+/home/vagrant/Desktop/CD2023/Messismo/mesi/target/site/apidocs/help-doc.html = 1715588372246
+/home/vagrant/Desktop/CD2023/Messismo/mesi/target/site/apidocs/search.js = 1715588372250
+/home/vagrant/Desktop/CD2023/Messismo/mesi/target/site/apidocs/member-search-index.js = 1715588372234
+/home/vagrant/Desktop/CD2023/Messismo/mesi/target/site/apidocs/search.html = 1715588372246
+/home/vagrant/Desktop/CD2023/Messismo/mesi/target/site/apidocs/stylesheet.css = 1715588372250
+/home/vagrant/Desktop/CD2023/Messismo/mesi/target/site/apidocs/packages = 1715587525074
+/home/vagrant/Desktop/CD2023/Messismo/mesi/target/site/apidocs/allclasses-index.html = 1715588372234
+/home/vagrant/Desktop/CD2023/Messismo/mesi/target/site/apidocs/module-search-index.js = 1715588372234
+/home/vagrant/Desktop/CD2023/Messismo/mesi/target/site/apidocs/type-search-index.js = 1715588372234
+/home/vagrant/Desktop/CD2023/Messismo/mesi/target/site/apidocs/overview-tree.html = 1715588372218
+/home/vagrant/Desktop/CD2023/Messismo/mesi/target/site/apidocs/link.svg = 1715588372250
+/home/vagrant/Desktop/CD2023/Messismo/mesi/target/site/apidocs/script.js = 1715588372250
+/home/vagrant/Desktop/CD2023/Messismo/mesi/target/site/apidocs/tag-search-index.js = 1715588372234
+/home/vagrant/Desktop/CD2023/Messismo/mesi/target/site/apidocs/allpackages-index.html = 1715588372234
+/home/vagrant/Desktop/CD2023/Messismo/mesi/target/site/apidocs/element-list = 1715588372206
+/home/vagrant/Desktop/CD2023/Messismo/mesi/target/site/apidocs/javadoc.sh = 1715588275239
+/home/vagrant/Desktop/CD2023/Messismo/mesi/target/site/apidocs/package-search-index.js = 1715588372234
