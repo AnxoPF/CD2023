@@ -15,7 +15,7 @@ public class EstudianteTest{
     public void testCrearEstudiante(){
         Estudiante estudiante = new Estudiante("Pepe", 14);
         assertEquals("Pepe", estudiante.getNombre());
-        assertEquals(13, estudiante.getEdad());
+        assertEquals(14, estudiante.getEdad());
         assertEquals(0.0, estudiante.getCalificacion());
     }
 
@@ -39,16 +39,17 @@ public class EstudianteTest{
 
     @Test
     public void testEsUniversitario(){
-        Estudiante estudianteUniversitario = new Estudiante("Jose", 13);
+        Estudiante estudianteUniversitario = new Estudiante("Jose", 19);
         assertTrue(estudianteUniversitario.esUniversitario());
 
-        Estudiante estudianteNoUniversitario = new Estudiante("Paula", 23);
+        Estudiante estudianteNoUniversitario = new Estudiante("Paula", 13);
         assertFalse(estudianteNoUniversitario.esUniversitario());
     }
 
+    @Test
     public void testEdadEscolar(){
-        Estudiante estudianteEdadEscolar = new Estudiante("Xavi", 10);
-        assertEquals(0, estudianteEdadEscolar.edadEscolar());
+        Estudiante estudianteEdadEscolar = new Estudiante("Xavi", 13);
+        assertEquals(1, estudianteEdadEscolar.edadEscolar());
     }
 
 }

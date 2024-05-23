@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/home/vagrant/Desktop/CD2023/PruebaExamen2/Probando/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/vagrant/Desktop/CD2023/PruebaExamen2/Probando/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Probando 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Probando 1.0-SNAPSHOT API'
+PaqueteProyecto
+/home/vagrant/Desktop/CD2023/PruebaExamen2/Probando/src/main/java = 1716483479187
+/home/vagrant/Desktop/CD2023/PruebaExamen2/Probando/target/site/apidocs/search-page.js = 1716492641214
+/home/vagrant/Desktop/CD2023/PruebaExamen2/Probando/target/site/apidocs/index-all.html = 1716492641074
+/home/vagrant/Desktop/CD2023/PruebaExamen2/Probando/target/site/apidocs/copy.svg = 1716492641206
+/home/vagrant/Desktop/CD2023/PruebaExamen2/Probando/target/site/apidocs/index.html = 1716492641142
+/home/vagrant/Desktop/CD2023/PruebaExamen2/Probando/target/site/apidocs/help-doc.html = 1716492641194
+/home/vagrant/Desktop/CD2023/PruebaExamen2/Probando/target/site/apidocs/search.js = 1716492641214
+/home/vagrant/Desktop/CD2023/PruebaExamen2/Probando/target/site/apidocs/member-search-index.js = 1716492641042
+/home/vagrant/Desktop/CD2023/PruebaExamen2/Probando/target/site/apidocs/search.html = 1716492641094
+/home/vagrant/Desktop/CD2023/PruebaExamen2/Probando/target/site/apidocs/stylesheet.css = 1716492641206
+/home/vagrant/Desktop/CD2023/PruebaExamen2/Probando/target/site/apidocs/allclasses-index.html = 1716492641034
+/home/vagrant/Desktop/CD2023/PruebaExamen2/Probando/target/site/apidocs/module-search-index.js = 1716492641038
+/home/vagrant/Desktop/CD2023/PruebaExamen2/Probando/target/site/apidocs/type-search-index.js = 1716492641042
+/home/vagrant/Desktop/CD2023/PruebaExamen2/Probando/target/site/apidocs/overview-tree.html = 1716492640942
+/home/vagrant/Desktop/CD2023/PruebaExamen2/Probando/target/site/apidocs/link.svg = 1716492641206
+/home/vagrant/Desktop/CD2023/PruebaExamen2/Probando/target/site/apidocs/script.js = 1716492641206
+/home/vagrant/Desktop/CD2023/PruebaExamen2/Probando/target/site/apidocs/tag-search-index.js = 1716492641042
+/home/vagrant/Desktop/CD2023/PruebaExamen2/Probando/target/site/apidocs/allpackages-index.html = 1716492641038
+/home/vagrant/Desktop/CD2023/PruebaExamen2/Probando/target/site/apidocs/element-list = 1716492640894
+/home/vagrant/Desktop/CD2023/PruebaExamen2/Probando/target/site/apidocs/package-search-index.js = 1716492641042
